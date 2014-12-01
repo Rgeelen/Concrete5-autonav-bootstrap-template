@@ -1,2 +1,2 @@
 # Bootstrap navigation template
-Copie the autonav folder to application/blocks/
+Copie the templates folder to application/blocks/autonav/
